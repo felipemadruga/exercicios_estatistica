@@ -1,0 +1,52 @@
+# Tabelas: Variáveis Qualitativas
+
+Prezados, nesta parte vocês encontram alguns exercícios relacionados ao tópico de descrever de forma tabular variáveis que classificamos como qualitativas. Nos exercícios que vão encontrar na sequência, devem construir tabelas que indiquem a frequência dos valores para a variável que for considerada.
+
+Lembrando que vocês podem encontrar esse tópico no capítulo 2 do livro @estatistica_anderson_2013, um dos livros que temos como referência para a nossa disciplina.[^tabelas_frequencia_01-1]
+
+[^tabelas_frequencia_01-1]: Na versão que tenho, um pouco mais antiga, a sessão na qual podem estudar contém o seguinte título: *Sintetizando os dados categorizados*, mas pelo que notei em versões mais novas, o título da sessão também se mantém o mesmo.
+
+------------------------------------------------------------------------
+
+**Exercício 1:** A resposta a uma questão tem três alternativas: A, B e C. Uma amostra de 120 respostas fornece 60 A, 24 B e 36 C. Mostre a distribuição de frequências absoluta e a distribuição de frequências relativas.
+
+**Exercício 2:** É dada uma distribuição de frequências relativas parcial (incompleta):
+
+| Classe | Frequência relativa |
+|:------:|:-------------------:|
+|   A    |        0,22         |
+|   B    |        0,18         |
+|   C    |        0,40         |
+|   D    |                     |
+
+1.  Qual é a frequência relativa da classe D?
+2.  O tamanho total da amostra é 200. Qual é a frequência absoluta da classe D?
+3.  Mostre a distribuição de frequências absoluta.
+4.  Mostre a distribuição de frequências relativas percentuais.
+
+**Exercício 3:** Em uma indústria de eletrodomésticos, na etapa de produção do componente porta, o inspetor de qualidade verifica o total de peças rejeitadas por tipo de falha (desalinhamento, risco, deformação, desbotamento e oxigenação), conforme indicado abaixo:
+
+| Descrição da falha | Total |
+|:------------------:|:-----:|
+|   Desalinhamento   |  98   |
+|       Risco        |  67   |
+|     Deformação     |  45   |
+|    Desbotamento    |  28   |
+|     Oxigenação     |  12   |
+|     **Total**      |  250  |
+
+Pede-se:
+
+1.  Determine a participação relativa das falhas descritas;
+2.  Esboçe um gráfico em barra para essas falhas.
+
+**Exercício 4:** Uma pesquisa foi realizada com 20 pessoas para avaliar a satisfação dos usuários de um serviço de transporte público. Os entrevistados foram convidados a classificar a qualidade do serviço nas seguintes categorias: **1. Muito insatisfeito**; **2. Insatisfeito**; **3. Neutro**; **4. Satisfeito** e **5. Muito satisfeito**. Os resultados das 20 respostas foram os seguintes:
+
+4, 2, 3, 5, 3, 1, 4, 2, 4, 5, 3, 4, 2, 4, 3, 5, 1, 4, 3, 5.
+
+Pede-se:
+
+1.  Organize os dados: Conte quantas vezes cada uma das categorias foi escolhida;
+2.  Calcule a frequência relativa: Para cada categoria, divida a frequência absoluta pelo número total de respostas (20) e expresse o resultado em porcentagem;
+3.  Construa uma tabela de frequências: Apresente as frequências absolutas e relativas em uma tabela;
+4.  Construa um gráfico.
