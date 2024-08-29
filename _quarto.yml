@@ -1,0 +1,37 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Listas de Exercícios"
+  author: "Prof. Felipe Madruga"
+  chapters: 
+  - index.qmd
+  - part: "Estatística Descritiva"
+    chapters:
+      - capitulos/tabelas_frequencia_01.qmd
+      - capitulos/tabelas_frequencia_02.qmd
+  - part: "Probabilidade e suas Distribuições"  
+  - part: "Inferência Estatística" 
+  - part: "Referências"  
+    chapters:
+      - references.qmd
+
+  
+bibliography: reference.bib
+
+format:
+  html:
+   lang: pt
+   theme: flatly
+   link-external-newwindow: true
+   code-overflow: wrap
+   toc: true
+   toc-title: "Índice do Conteúdo"
+   cover-image: golden_cover.png
+   reference-location: margin
+   footnotes-hover: false
+   lightbox: true
+   fig-cap-location: top
+   fig-align: center
+   crossrefs-hover: false

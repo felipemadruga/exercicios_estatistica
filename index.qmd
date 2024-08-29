@@ -1,0 +1,8 @@
+# Bem-Vindo {.unnumbered}
+
+Meu caro aluno, seja bem-vindo ao portal onde estará disponível os exercícios de nossa disciplina de estatística para que você possa revisar os conceito vistos em aula. Ao longo do semestre será aqui onde vou postar os exercícios de acordo com os assuntos que avançarmos em aula.  
+
+No menu de navegação à esquerda vocês perceberão que os exercícios propostos ficarão separados de acordo com cada assunto que eu for trabalhando em aula, por isso muitos ainda não possuem nada. Não se preocupem, sempre que adicionar exercícios por aqui vou avisar vocês também por email.
+
+Bons estudos!!
+
