@@ -21,17 +21,6 @@
     ]
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "Livros",
-    "section": "",
-    "text": "Sweeney, Anderson, and Williams. 2013. Estatística Aplicada à\nAdministração e Economia. CENGAGE Learning.",
-    "crumbs": [
-      "Referências",
-      "Livros"
-    ]
-  },
-  {
     "objectID": "capitulos/tabelas_frequencia_02.html",
     "href": "capitulos/tabelas_frequencia_02.html",
     "title": "2  Tabelas: Variáveis Quantitativas",
@@ -40,6 +29,17 @@
     "crumbs": [
       "Estatística Descritiva",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Tabelas: Variáveis Quantitativas</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "Livros",
+    "section": "",
+    "text": "Sweeney, Anderson, and Williams. 2013. Estatística Aplicada à\nAdministração e Economia. CENGAGE Learning.",
+    "crumbs": [
+      "Referências",
+      "Livros"
     ]
   }
 ]
