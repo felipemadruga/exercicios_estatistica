@@ -10,6 +10,7 @@ book:
   - part: "Estatística Descritiva"
     chapters:
       - capitulos/tabelas_frequencia_01.qmd
+      - respostas/respostas_qualitativas.qmd
       - capitulos/tabelas_frequencia_02.qmd
   - part: "Probabilidade e suas Distribuições"  
   - part: "Inferência Estatística" 

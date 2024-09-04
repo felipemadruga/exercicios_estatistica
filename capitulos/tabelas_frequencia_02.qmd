@@ -11,7 +11,7 @@ Esse conteúdo vocês poderão também encontrar no capítulo 2 do livro @estati
 **Exercício 1:** Com base nas toneladas de carga transportadas em um ano, os portos enumerados a seguir são os 25 mais movimentados nos Estados Unidos (The 2013 World Almanac):
 
 |    **Porto**    | **Toneladas Transportadas (milhões)** |    **Porto**    | **Toneladas Transportadas (milhões)** |
-|:----------------:|:----------------:|:----------------:|:----------------:|
+|:---------------:|:-------------------------------------:|:---------------:|:-------------------------------------:|
 |    Baltimore    |                 39,6                  | Norfolk Harbor  |                 41,6                  |
 |   Baton Rouge   |                 55,5                  |   Pascagoula    |                 37,3                  |
 |    Beaumont     |                 77,0                  |  Philadelphia   |                 34,0                  |

@@ -1,0 +1,35 @@
+# Respostas: Tabelas para Variáveis Qualitativas {#sec-respostas .unnumbered}
+
+Prezados, abaixo vocês encontram as respostas para os exercícios sobre o tópico no qual construímos tabelas de frequências para variáveis qualitativas.
+
+## Exercício 1
+
+*Obs.:* Na resposta consta como *exercício 2*, mas na verdade deveria ser *exercício 1*.
+
+![](L1_1.jpeg){fig-align="center"}
+
+## Exercício 2
+
+![](L1_2_parte1.jpeg){fig-align="center"}
+
+![](L1_2_parte2.jpeg){fig-align="center"}
+
+![](L1_2_parte3.jpeg){fig-align="center"}
+
+## Exercício 3
+
+![](L1_3_parte1.jpeg){fig-align="center"}
+
+![](L1_3_parte2.jpeg){fig-align="center"}
+
+## Exercício 4
+
+![](L1_4_parte1.jpeg)
+
+![](L1_4_parte2.jpeg){fig-align="center"}
+
+## Exercício 5
+
+![](L1_5_parte1.jpeg){fig-align="center"}
+
+![](L1_5_parte2.jpeg){fig-align="center"}

@@ -58,6 +58,10 @@ Pede-se:
 Pede-se:
 
 1.  Organize os dados: Conte quantas vezes cada uma das categorias foi escolhida;
-2.  Calcule a frequência relativa: Para cada categoria, divida a frequência absoluta pelo número total de respostas (20) e expresse o resultado em porcentagem;
+2.  Calcule a frequência relativa: Para cada categoria, divida a frequência absoluta pelo número total de respostas (25) e expresse o resultado em porcentagem;
 3.  Construa uma tabela de frequências: Apresente as frequências absolutas e relativas em uma tabela;
 4.  Construa um gráfico.
+
+------------------------------------------------------------------------
+
+As respostas dos exercícios acima podem ser encontradas [aqui](/respostas/respostas_qualitativas.qmd)
