@@ -11,7 +11,7 @@ Esse conteúdo vocês poderão também encontrar no capítulo 2 do livro @estati
 **Exercício 1:** Com base nas toneladas de carga transportadas em um ano, os portos enumerados a seguir são os 25 mais movimentados nos Estados Unidos (The 2013 World Almanac):
 
 |    **Porto**    | **Toneladas Transportadas (milhões)** |    **Porto**    | **Toneladas Transportadas (milhões)** |
-|:---------------:|:-------------------------------------:|:---------------:|:-------------------------------------:|
+|:-------------:|:--------------------:|:-------------:|:--------------------:|
 |    Baltimore    |                 39,6                  | Norfolk Harbor  |                 41,6                  |
 |   Baton Rouge   |                 55,5                  |   Pascagoula    |                 37,3                  |
 |    Beaumont     |                 77,0                  |  Philadelphia   |                 34,0                  |
@@ -77,6 +77,4 @@ Pede-se:
 Pede-se:
 
 1.  Utilize as classes 0-4.999, 5.000-9.999, 10.000-14.999, e assim por diante para encontrar as frequências da variável quantitativa;
-2.  Suponha que as classes acima não tivessem sido dadas, construa essas classes por meio do método visto em aula;
-3.  Construa uma nova tabela com as franquias ordenadas em ordem decrescente de quantidade. Construa a distribuição de frequências das franquias, absoluta e relativa percentual;
-4.  Identifique as cinco maiores franquias mostradas na tabela que você construiu e some os valores das demais que restaram. Feito isso, construa uma nova tabela de distruibuição de frequências para a variável qualitativa mais compacta indicando novamente as frequências absolutas e relativas percentual.
+2.  Suponha que as classes acima não tivessem sido dadas, construa essas classes por meio do método visto em aula.
