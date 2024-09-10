@@ -32,3 +32,5 @@ Rodada (R) e gols marcados contra adversários com dificuldade igual a 1: *R1* =
 Rodada (R) e gols marcados contra adversários com dificuldade igual a 3: *R2* = 0 gols; *R4* = 1 gol; *R7* = 0 gols; *R8* = 1 gol e *R10* = 0 gols;
 
 Compare o desempenho desse jogador por meio de uma média simples de gols e a média que leve em conta a dificuldade do adversário. O que você acha do desempenho desse jogador?
+
+As respostas dos exercícios acima podem ser encontradas [aqui](/respostas/respostas_medidas_resumo.qmd)

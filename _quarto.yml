@@ -14,6 +14,7 @@ book:
       - capitulos/tabelas_frequencia_02.qmd
       - respostas/respostas_quantitativas.qmd
       - capitulos/medidas_resumo_01.qmd
+      - respostas/respostas_medidas_resumo.qmd
   - part: "Probabilidade e suas Distribuições"  
   - part: "Inferência Estatística" 
   - part: "Referências"  

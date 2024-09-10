@@ -89,45 +89,78 @@
   {
     "objectID": "respostas/respostas_quantitativas.html",
     "href": "respostas/respostas_quantitativas.html",
-    "title": "3  Respostas: Tabelas para Variáveis Quantitativas",
+    "title": "Respostas: Tabelas para Variáveis Quantitativas",
     "section": "",
-    "text": "3.1 Exercício 1",
+    "text": "Exercício 1",
     "crumbs": [
       "Estatística Descritiva",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Respostas: Tabelas para Variáveis Quantitativas</span>"
+      "Respostas: Tabelas para Variáveis Quantitativas"
     ]
   },
   {
     "objectID": "respostas/respostas_quantitativas.html#exercício-2",
     "href": "respostas/respostas_quantitativas.html#exercício-2",
-    "title": "3  Respostas: Tabelas para Variáveis Quantitativas",
-    "section": "3.2 Exercício 2",
-    "text": "3.2 Exercício 2",
+    "title": "Respostas: Tabelas para Variáveis Quantitativas",
+    "section": "Exercício 2",
+    "text": "Exercício 2",
     "crumbs": [
       "Estatística Descritiva",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Respostas: Tabelas para Variáveis Quantitativas</span>"
+      "Respostas: Tabelas para Variáveis Quantitativas"
     ]
   },
   {
     "objectID": "respostas/respostas_quantitativas.html#exercício-3",
     "href": "respostas/respostas_quantitativas.html#exercício-3",
-    "title": "3  Respostas: Tabelas para Variáveis Quantitativas",
-    "section": "3.3 Exercício 3",
-    "text": "3.3 Exercício 3",
+    "title": "Respostas: Tabelas para Variáveis Quantitativas",
+    "section": "Exercício 3",
+    "text": "Exercício 3",
     "crumbs": [
       "Estatística Descritiva",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Respostas: Tabelas para Variáveis Quantitativas</span>"
+      "Respostas: Tabelas para Variáveis Quantitativas"
     ]
   },
   {
     "objectID": "capitulos/medidas_resumo_01.html",
     "href": "capitulos/medidas_resumo_01.html",
-    "title": "4  Medidas Resumo",
+    "title": "3  Medidas Resumo",
     "section": "",
-    "text": "Prezados, nesta parte vocês encontram alguns exercícios relacionados ao tópico de medidas resumo onde aprendemos a calcular média e mediana. Além disso, aqui será tratado o tópico sobre desvio padrão, uma medida também vista.\nLembrando que vocês podem encontrar esse tópico no capítulo 3 do livro Sweeney e Williams (2013), um dos livros que temos como referência para a nossa disciplina1.\n1 Na versão que tenho, a sessão na qual podem estudar contém o seguinte título: Medidas de Posição, para o tópico de médias e medianas; Medidas de Variabilidade, que trata do desvio padrão; e Média ponderada e o trabalho com dados agrupados, que explica e exemplifica o conceito de média ponderada.\nExercício 1: O conjunto de dados mostrados abaixo indica as diferentes previsões feitas por analistas de mercado sobre os rumos da economia, previsões para o PIB - Produto Interno Bruto.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2,6\n3,1\n2,3\n2,7\n3,4\n0,9\n2,6\n2,8\n2,0\n2,4\n\n\n\n\n2,7\n2,7\n2,7\n2,9\n3,1\n2,8\n1,7\n2,3\n2,8\n3,5\n\n\n0,4\n2,5\n2,2\n1,9\n1,8\n1,1\n2,0\n2,1\n2,5\n0,5\n\n\n\nA partir dos dados acima você deverá calcular a média e a mediada.\nExercício 2: Os dados mostrados abaixo são referentes aos prazos de entregas de duas empresas transportadoras, Rápida e Super Rápida.\nRápida: 11, 10, 9, 10, 11, 11, 10, 11, 10 e 10\nSuper Rápida: 8, 10, 13 ,7 ,10, 11, 10, 7, 15 e 12\nCalcule o desvio padrão do tempo de entregas para cada empresa. Com base no cálculo feito, qual delas você escolheria para receber um produto?\nExercício 3: Um jogador é contratado por um time e ao final de dez rodadas o técnico quer fazer uma análise sobre o seu desempenho médio. Para isso, atribui pesos de acordo com a dificuldade do adversário que o jogador enfrentou. Abaixo são mostradas as rodadas (R) e quantidades de gols marcados de acordo com o peso do advesário:\nRodada (R) e gols marcados contra adversários com dificuldade igual a 1: R1 = 4 gol; R3 = 2 gols; R5 = 3 gol; R6 = 3 gols e R9 = 3 gols;\nRodada (R) e gols marcados contra adversários com dificuldade igual a 3: R2 = 0 gols; R4 = 1 gol; R7 = 0 gols; R8 = 1 gol e R10 = 0 gols;\nCompare o desempenho desse jogador por meio de uma média simples de gols e a média que leve em conta a dificuldade do adversário. O que você acha do desempenho desse jogador?\n\n\n\n\nSweeney, Anderson, e Williams. 2013. Estatística aplicada à administração e economia. CENGAGE Learning.",
+    "text": "Prezados, nesta parte vocês encontram alguns exercícios relacionados ao tópico de medidas resumo onde aprendemos a calcular média e mediana. Além disso, aqui será tratado o tópico sobre desvio padrão, uma medida também vista.\nLembrando que vocês podem encontrar esse tópico no capítulo 3 do livro Sweeney e Williams (2013), um dos livros que temos como referência para a nossa disciplina1.\n1 Na versão que tenho, a sessão na qual podem estudar contém o seguinte título: Medidas de Posição, para o tópico de médias e medianas; Medidas de Variabilidade, que trata do desvio padrão; e Média ponderada e o trabalho com dados agrupados, que explica e exemplifica o conceito de média ponderada.\nExercício 1: O conjunto de dados mostrados abaixo indica as diferentes previsões feitas por analistas de mercado sobre os rumos da economia, previsões para o PIB - Produto Interno Bruto.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2,6\n3,1\n2,3\n2,7\n3,4\n0,9\n2,6\n2,8\n2,0\n2,4\n\n\n\n\n2,7\n2,7\n2,7\n2,9\n3,1\n2,8\n1,7\n2,3\n2,8\n3,5\n\n\n0,4\n2,5\n2,2\n1,9\n1,8\n1,1\n2,0\n2,1\n2,5\n0,5\n\n\n\nA partir dos dados acima você deverá calcular a média e a mediada.\nExercício 2: Os dados mostrados abaixo são referentes aos prazos de entregas de duas empresas transportadoras, Rápida e Super Rápida.\nRápida: 11, 10, 9, 10, 11, 11, 10, 11, 10 e 10\nSuper Rápida: 8, 10, 13 ,7 ,10, 11, 10, 7, 15 e 12\nCalcule o desvio padrão do tempo de entregas para cada empresa. Com base no cálculo feito, qual delas você escolheria para receber um produto?\nExercício 3: Um jogador é contratado por um time e ao final de dez rodadas o técnico quer fazer uma análise sobre o seu desempenho médio. Para isso, atribui pesos de acordo com a dificuldade do adversário que o jogador enfrentou. Abaixo são mostradas as rodadas (R) e quantidades de gols marcados de acordo com o peso do advesário:\nRodada (R) e gols marcados contra adversários com dificuldade igual a 1: R1 = 4 gol; R3 = 2 gols; R5 = 3 gol; R6 = 3 gols e R9 = 3 gols;\nRodada (R) e gols marcados contra adversários com dificuldade igual a 3: R2 = 0 gols; R4 = 1 gol; R7 = 0 gols; R8 = 1 gol e R10 = 0 gols;\nCompare o desempenho desse jogador por meio de uma média simples de gols e a média que leve em conta a dificuldade do adversário. O que você acha do desempenho desse jogador?\nAs respostas dos exercícios acima podem ser encontradas aqui\n\n\n\n\nSweeney, Anderson, e Williams. 2013. Estatística aplicada à administração e economia. CENGAGE Learning.",
     "crumbs": [
       "Estatística Descritiva",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Medidas Resumo</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Medidas Resumo</span>"
+    ]
+  },
+  {
+    "objectID": "respostas/respostas_medidas_resumo.html",
+    "href": "respostas/respostas_medidas_resumo.html",
+    "title": "Respostas: Medidas Resumo",
+    "section": "",
+    "text": "Exercício 1",
+    "crumbs": [
+      "Estatística Descritiva",
+      "Respostas: Medidas Resumo"
+    ]
+  },
+  {
+    "objectID": "respostas/respostas_medidas_resumo.html#exercício-2",
+    "href": "respostas/respostas_medidas_resumo.html#exercício-2",
+    "title": "Respostas: Medidas Resumo",
+    "section": "Exercício 2",
+    "text": "Exercício 2",
+    "crumbs": [
+      "Estatística Descritiva",
+      "Respostas: Medidas Resumo"
+    ]
+  },
+  {
+    "objectID": "respostas/respostas_medidas_resumo.html#exercício-3",
+    "href": "respostas/respostas_medidas_resumo.html#exercício-3",
+    "title": "Respostas: Medidas Resumo",
+    "section": "Exercício 3",
+    "text": "Exercício 3",
+    "crumbs": [
+      "Estatística Descritiva",
+      "Respostas: Medidas Resumo"
     ]
   },
   {
